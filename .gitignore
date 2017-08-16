@@ -1,0 +1,9 @@
+/out
+/.idea
+/lib
+/target
+/.gitignore
+/spark-warehouse
+/project/plugins.sbt
+/project/project
+/project/target
